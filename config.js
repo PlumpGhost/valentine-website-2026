@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        cats: ['😻', '😽']                       // Cute cat emojis
+        bears: ['😻', '😽']                       // Cute cat emojis
     },
 
     // Questions and answers
